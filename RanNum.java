@@ -10,6 +10,6 @@ class RandomNum {
      * @return
      */
     public int getNum(){
-        return ran.nextInt(100) + new Numerito().getNum()+2*2+2122;    
+        return ran.nextInt(100) + 23783278;    
     }
 }
