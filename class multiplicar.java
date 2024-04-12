@@ -1,6 +1,7 @@
+    import java.util.Random;
 class multiplicar{
     Random ran;
-    RandomNum(){
+    multiplicar(){
         ran = new Random();
     }
 
