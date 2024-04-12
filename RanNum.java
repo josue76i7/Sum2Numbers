@@ -7,6 +7,6 @@ class RandomNum {
     }
 
     public int getNum(){
-        return ran.nextInt(100) + new Numerito().getNum()+2*2+21;    
+        return ran.nextInt(100) + new Numerito().getNum();    
     }
 }
