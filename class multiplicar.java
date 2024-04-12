@@ -7,6 +7,6 @@ class multiplicar{
     }
 
     public int getNum(){
-        return 2;    
+        return 22;    
     }
 }
