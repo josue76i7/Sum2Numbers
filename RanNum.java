@@ -10,6 +10,6 @@ class RandomNum {
      * @return
      */
     public int getNum(){
-        return ran.nextInt(100) ;    
+        return ran.nextInt(100) + 1000;    
     }
 }
