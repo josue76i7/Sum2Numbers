@@ -2,7 +2,8 @@
 class Numerito {
     
     public int getNum() {
-        return 10+1;
+         int a = 100;
+        return 10+10*a-2;
     }
 }
 
