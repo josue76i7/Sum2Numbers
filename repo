@@ -1,0 +1,234 @@
+[33m08f6b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mREBASE[m[33m)[m HEAD@{0}: checkout: moving from main to REBASE
+[33mca40b[m[33m ([m[1;32mmain[m[33m)[m HEAD@{1}: checkout: moving from REBASE to main
+[33m08f6b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mREBASE[m[33m)[m HEAD@{2}: checkout: moving from main to REBASE
+[33mca40b[m[33m ([m[1;32mmain[m[33m)[m HEAD@{3}: checkout: moving from 08f6b7ccd2c20d39d07dfc4a873440af6457ed37 to main
+[33m08f6b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mREBASE[m[33m)[m HEAD@{4}: checkout: moving from fc6589a10719f72756f7a9e5eedb0f185991b6f8 to 08f6b
+[33mfc658[m HEAD@{5}: checkout: moving from b1a41ab1c5b60f1e53d39562a21e2d0b04733cbc to fc658
+[33mb1a41[m HEAD@{6}: checkout: moving from 57ca925972694fa5ceae6890503901124f8db729 to b1a41
+[33m57ca9[m HEAD@{7}: checkout: moving from REBASE to 57ca9
+[33m08f6b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mREBASE[m[33m)[m HEAD@{8}: rebase (finish): returning to refs/heads/REBASE
+[33m08f6b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mREBASE[m[33m)[m HEAD@{9}: rebase (continue): NEW4
+[33mfc658[m HEAD@{10}: rebase (continue): NEW3
+[33mb1a41[m HEAD@{11}: rebase (continue): NEW2
+[33m57ca9[m HEAD@{12}: rebase (continue): NE1
+[33mca40b[m[33m ([m[1;32mmain[m[33m)[m HEAD@{13}: rebase (start): checkout main
+[33m1ac2e[m HEAD@{14}: commit: NEW4
+[33m594c3[m HEAD@{15}: rebase (abort): returning to refs/heads/REBASE
+[33mca40b[m[33m ([m[1;32mmain[m[33m)[m HEAD@{16}: rebase (start): checkout main
+[33m594c3[m HEAD@{17}: checkout: moving from main to REBASE
+[33mca40b[m[33m ([m[1;32mmain[m[33m)[m HEAD@{18}: commit: NEW-MAIN
+[33m4d996[m HEAD@{19}: reset: moving to 4d996
+[33m594c3[m HEAD@{20}: checkout: moving from REBASE to main
+[33m594c3[m HEAD@{21}: checkout: moving from 4d99662eb9636a02e7fdb744da7defc1a265b048 to REBASE
+[33m4d996[m HEAD@{22}: checkout: moving from Main to 4d996
+[33m594c3[m HEAD@{23}: rebase (finish): returning to refs/heads/Main
+[33m594c3[m HEAD@{24}: rebase (start): checkout REBASE
+[33m4d996[m HEAD@{25}: checkout: moving from REBASE to Main
+[33m594c3[m HEAD@{26}: commit: NEW3
+[33m30e40[m HEAD@{27}: commit: NE2
+[33m3a8c6[m HEAD@{28}: commit: NE1
+[33m4d996[m HEAD@{29}: checkout: moving from main to REBASE
+[33m4d996[m HEAD@{30}: checkout: moving from NewBranch to main
+[33m109f4[m HEAD@{31}: checkout: moving from Main to NewBranch
+[33m4d996[m HEAD@{32}: reset: moving to 4d996
+[33m7c0fd[m HEAD@{33}: reset: moving to 7c0fd4f21f
+[33m109f4[m HEAD@{34}: checkout: moving from NewBranch to Main
+[33m109f4[m HEAD@{35}: rebase (finish): returning to refs/heads/NewBranch
+[33m109f4[m HEAD@{36}: rebase (start): checkout main
+[33m8c913[m HEAD@{37}: checkout: moving from main to NewBranch
+[33m109f4[m HEAD@{38}: checkout: moving from NewBranch to main
+[33m8c913[m HEAD@{39}: checkout: moving from main to NewBranch
+[33m109f4[m HEAD@{40}: rebase (finish): returning to refs/heads/main
+[33m109f4[m HEAD@{41}: rebase (continue): The final stash
+[33m8b55e[m HEAD@{42}: rebase (continue): Nuerw
+[33m20511[m HEAD@{43}: rebase (pick): hj
+[33mf7ecc[m HEAD@{44}: rebase (continue): jjhj
+[33m7c0fd[m HEAD@{45}: rebase (continue): Commit From Main
+[33m99836[m HEAD@{46}: commit: Ro
+[33mbcf63[m HEAD@{47}: rebase (continue): ChangesBranchSecond
+[33m89732[m HEAD@{48}: rebase (continue): Version
+[33m85efa[m HEAD@{49}: rebase (continue): klhdsjhk
+[33m8b41e[m HEAD@{50}: rebase (continue): Update RanNum.java
+[33m1ae57[m HEAD@{51}: rebase (continue): ijihjkjhdhji
+[33mede44[m HEAD@{52}: rebase (continue): Delete class multiplicar.java
+[33m42b85[m HEAD@{53}: rebase (continue): jejjj
+[33m8c913[m HEAD@{54}: rebase (start): checkout NewBranch
+[33mc7c70[m HEAD@{55}: rebase (abort): returning to refs/heads/main
+[33mef316[m HEAD@{56}: commit: UIu
+[33m17798[m HEAD@{57}: rebase (continue): Already i bored
+[33m7043c[m HEAD@{58}: rebase (continue): Update RanNum.java
+[33m8c913[m HEAD@{59}: rebase (start): checkout NewBranch
+[33mc7c70[m HEAD@{60}: checkout: moving from NewBranch to main
+[33m8c913[m HEAD@{61}: checkout: moving from main to NewBranch
+[33mc7c70[m HEAD@{62}: rebase (abort): returning to refs/heads/main
+[33ma302e[m HEAD@{63}: rebase (continue): Commit From Main
+[33m5d2cd[m HEAD@{64}: rebase (continue): ChangesBranchSecond
+[33m81254[m HEAD@{65}: rebase (continue): Version
+[33m9208e[m HEAD@{66}: rebase (continue): Delete class multiplicar.java
+[33m31d5b[m HEAD@{67}: rebase (continue): ijihjkjhdhji
+[33m1afc8[m HEAD@{68}: rebase (continue): Delete class multiplicar.java
+[33m624d5[m HEAD@{69}: rebase (continue): jejjj
+[33m6ddca[m HEAD@{70}: rebase (continue): Already i bored
+[33mfc12a[m HEAD@{71}: rebase (continue): Update RanNum.java
+[33mc9e31[m HEAD@{72}: commit: REBASE
+[33m8c913[m HEAD@{73}: rebase (start): checkout NewBranch
+[33mc7c70[m HEAD@{74}: checkout: moving from NewBranch to main
+[33m8c913[m HEAD@{75}: checkout: moving from main to NewBranch
+[33mc7c70[m HEAD@{76}: reset: moving to c7c70
+[33m89397[m HEAD@{77}: commit (merge): Merge branch 'NewBranch'
+[33mc7c70[m HEAD@{78}: reset: moving to c7c70
+[33m8829c[m HEAD@{79}: commit (merge): Mergeeee
+[33mc7c70[m HEAD@{80}: checkout: moving from NewBranch to main
+[33m8c913[m HEAD@{81}: commit: NewBranch3
+[33mc5f90[m HEAD@{82}: commit: NewBranch2
+[33m8d4ef[m HEAD@{83}: commit: NewBranch1
+[33macb6c[m HEAD@{84}: checkout: moving from main to NewBranch
+[33mc7c70[m HEAD@{85}: merge NewBranch: Merge made by the 'ort' strategy.
+[33mb76e9[m HEAD@{86}: checkout: moving from NewBranch to main
+[33macb6c[m HEAD@{87}: commit: New
+[33m40dd0[m HEAD@{88}: checkout: moving from Main to NewBranch
+[33mb76e9[m HEAD@{89}: reset: moving to b76e9
+[33mb76e9[m HEAD@{90}: commit (merge): Merge branch 'NewBranch' into Main
+[33m4c45c[m HEAD@{91}: reset: moving to HEAD
+[33m4c45c[m HEAD@{92}: checkout: moving from NewBranch to Main
+[33m40dd0[m HEAD@{93}: commit: hjh
+[33m20e84[m HEAD@{94}: checkout: moving from main to NewBranch
+[33m4c45c[m HEAD@{95}: checkout: moving from NewBranch to main
+[33m20e84[m HEAD@{96}: commit: jkdgbdhji
+[33mf9f7a[m HEAD@{97}: checkout: moving from main to NewBranch
+[33m4c45c[m HEAD@{98}: commit: The final stash
+[33m61b84[m HEAD@{99}: checkout: moving from NewBranch to main
+[33mf9f7a[m HEAD@{100}: reset: moving to HEAD
+[33mf9f7a[m HEAD@{101}: checkout: moving from Test to NewBranch
+[33mbb410[m HEAD@{102}: checkout: moving from NewBranch to Test
+[33mf9f7a[m HEAD@{103}: commit: jjsdhds
+[33mbb410[m HEAD@{104}: checkout: moving from bb4100e5145a0b482fa85db86c80a8e536a12e8b to NewBranch
+[33mbb410[m HEAD@{105}: checkout: moving from Test to bb410
+[33mbb410[m HEAD@{106}: reset: moving to HEAD
+[33mbb410[m HEAD@{107}: reset: moving to HEAD
+[33mbb410[m HEAD@{108}: reset: moving to HEAD
+[33mbb410[m HEAD@{109}: checkout: moving from bb4100e5145a0b482fa85db86c80a8e536a12e8b to Test
+[33mbb410[m HEAD@{110}: checkout: moving from bfdf8dbbaf0dc100ec479a4482e4f8a7c0a44755 to bb410
+[33mbfdf8[m HEAD@{111}: checkout: moving from bb4100e5145a0b482fa85db86c80a8e536a12e8b to bfdf8
+[33mbb410[m HEAD@{112}: commit: Revert "Before"
+[33mbfdf8[m HEAD@{113}: commit: Checkout
+[33m55d4d[m HEAD@{114}: reset: moving to 55d4d
+[33m4379d[m HEAD@{115}: reset: moving to 4379d
+[33m297ad[m HEAD@{116}: reset: moving to 297ad
+[33m4379d[m HEAD@{117}: reset: moving to 4379d
+[33m297ad[m HEAD@{118}: reset: moving to 297ad
+[33m4379d[m HEAD@{119}: commit: Now
+[33m297ad[m HEAD@{120}: reset: moving to 297ad
+[33m5730c[m HEAD@{121}: commit: kkk
+[33m297ad[m HEAD@{122}: reset: moving to 297ad
+[33m55d4d[m HEAD@{123}: reset: moving to 55d4d
+[33mea1b0[m HEAD@{124}: commit: jjdj
+[33m849bd[m HEAD@{125}: reset: moving to 849bd
+[33m00936[m[33m ([m[1;33mtag: [m[1;33mProduction[m[33m)[m HEAD@{126}: reset: moving to 00936
+[33m297ad[m HEAD@{127}: reset: moving to 297ad
+[33m00936[m[33m ([m[1;33mtag: [m[1;33mProduction[m[33m)[m HEAD@{128}: reset: moving to 00936
+[33mf3d98[m HEAD@{129}: commit: jjjk
+[33m00936[m[33m ([m[1;33mtag: [m[1;33mProduction[m[33m)[m HEAD@{130}: reset: moving to 00936
+[33m297ad[m HEAD@{131}: commit: Ahora yes
+[33m00936[m[33m ([m[1;33mtag: [m[1;33mProduction[m[33m)[m HEAD@{132}: reset: moving to 00936
+[33ma37aa[m HEAD@{133}: commit: jj
+[33m61b84[m HEAD@{134}: checkout: moving from 75e62e2aa223dc588147226e70f683030310f038 to 61b84
+[33m75e62[m HEAD@{135}: checkout: moving from main to 75e62
+[33m61b84[m HEAD@{136}: commit: Jojpdj
+[33me3980[m HEAD@{137}: commit: Nuerw
+[33m75e62[m HEAD@{138}: commit: hj
+[33m00936[m[33m ([m[1;33mtag: [m[1;33mProduction[m[33m)[m HEAD@{139}: reset: moving to 00936
+[33m1e25f[m HEAD@{140}: checkout: moving from 029a0cdd2c281b1ec16bfecabc74c6cc912bc280 to main
+[33m029a0[m HEAD@{141}: commit: The last
+[33m49844[m HEAD@{142}: commit: Now yes
+[33m5820b[m HEAD@{143}: commit: nOW YES
+[33m171eb[m HEAD@{144}: checkout: moving from be26e04108cd195d8628acea6946caa4d567b15c to 171eb
+[33mbe26e[m HEAD@{145}: checkout: moving from Dif to be26e
+[33m171eb[m HEAD@{146}: checkout: moving from main to Dif
+[33m1e25f[m HEAD@{147}: checkout: moving from main to main
+[33m1e25f[m HEAD@{148}: checkout: moving from Dif to main
+[33m171eb[m HEAD@{149}: commit: Other change
+[33mbe26e[m HEAD@{150}: commit: FROM THE OTHER BRANCH
+[33m1e25f[m HEAD@{151}: checkout: moving from main to Dif
+[33m1e25f[m HEAD@{152}: commit: Comparing commits
+[33m3516d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{153}: commit (merge): CommitAndRemote
+[33m794ae[m HEAD@{154}: checkout: moving from 26d87ae9ba4d5fc4d17b324f981378bd0ef1593e to main
+[33m26d87[m HEAD@{155}: checkout: moving from main to origin/main
+[33m794ae[m HEAD@{156}: commit: Local
+[33m00936[m[33m ([m[1;33mtag: [m[1;33mProduction[m[33m)[m HEAD@{157}: checkout: moving from main to main
+[33m00936[m[33m ([m[1;33mtag: [m[1;33mProduction[m[33m)[m HEAD@{158}: checkout: moving from main to main
+[33m00936[m[33m ([m[1;33mtag: [m[1;33mProduction[m[33m)[m HEAD@{159}: merge WelcomeAndRestar: Fast-forward
+[33md415a[m HEAD@{160}: checkout: moving from WelcomeAndRestar to main
+[33m00936[m[33m ([m[1;33mtag: [m[1;33mProduction[m[33m)[m HEAD@{161}: commit: jjhj
+[33m6db35[m HEAD@{162}: checkout: moving from main to WelcomeAndRestar
+[33md415a[m HEAD@{163}: checkout: moving from WelcomeAndRestar to main
+[33m6db35[m HEAD@{164}: reset: moving to HEAD
+[33m6db35[m HEAD@{165}: checkout: moving from main to WelcomeAndRestar
+[33md415a[m HEAD@{166}: checkout: moving from WelcomeAndRestar to main
+[33m6db35[m HEAD@{167}: reset: moving to HEAD
+[33m6db35[m HEAD@{168}: commit: jj
+[33m305e7[m HEAD@{169}: checkout: moving from main to WelcomeAndRestar
+[33md415a[m HEAD@{170}: checkout: moving from WelcomeAndRestar to main
+[33m305e7[m HEAD@{171}: reset: moving to HEAD
+[33m305e7[m HEAD@{172}: checkout: moving from main to WelcomeAndRestar
+[33md415a[m HEAD@{173}: reset: moving to HEAD
+[33md415a[m HEAD@{174}: checkout: moving from main to main
+[33md415a[m HEAD@{175}: checkout: moving from WelcomeAndRestar to main
+[33m305e7[m HEAD@{176}: checkout: moving from main to WelcomeAndRestar
+[33md415a[m HEAD@{177}: checkout: moving from WelcomeAndRestar to main
+[33m305e7[m HEAD@{178}: checkout: moving from main to WelcomeAndRestar
+[33md415a[m HEAD@{179}: checkout: moving from WelcomeAndRestar to main
+[33m305e7[m HEAD@{180}: commit (merge): Merge branch 'main' into WelcomeAndRestar
+[33m39a85[m HEAD@{181}: checkout: moving from main to WelcomeAndRestar
+[33md415a[m HEAD@{182}: commit: Commit From Main
+[33maa74e[m[33m ([m[1;33mtag: [m[1;33mPushVersion[m[33m)[m HEAD@{183}: checkout: moving from WelcomeAndRestar to main
+[33m39a85[m HEAD@{184}: commit: ChangesBranchSecond
+[33maa74e[m[33m ([m[1;33mtag: [m[1;33mPushVersion[m[33m)[m HEAD@{185}: checkout: moving from aa74efb3150db9eb7d1b24afac9c75646fdb89e1 to WelcomeAndRestar
+[33maa74e[m[33m ([m[1;33mtag: [m[1;33mPushVersion[m[33m)[m HEAD@{186}: checkout: moving from 08bafb2c0ab2a46eaabb9496fccf234409c32eb5 to PushVersion
+[33m08baf[m[33m ([m[1;33mtag: [m[1;33mFirstVersion[m[33m)[m HEAD@{187}: checkout: moving from main to FirstVersion
+[33maa74e[m[33m ([m[1;33mtag: [m[1;33mPushVersion[m[33m)[m HEAD@{188}: commit: Version
+[33m08baf[m[33m ([m[1;33mtag: [m[1;33mFirstVersion[m[33m)[m HEAD@{189}: pull: Fast-forward
+[33m84eb9[m HEAD@{190}: reset: moving to 84eb9
+[33mc9a70[m HEAD@{191}: checkout: moving from 08bafb2c0ab2a46eaabb9496fccf234409c32eb5 to main
+[33m08baf[m[33m ([m[1;33mtag: [m[1;33mFirstVersion[m[33m)[m HEAD@{192}: checkout: moving from 37ffe4ad55fa46151603cc6b076a43af1ec71553 to origin/main
+[33m37ffe[m HEAD@{193}: commit: StartSecondCourse
+[33m84eb9[m HEAD@{194}: reset: moving to 84eb9
+[33m39169[m HEAD@{195}: checkout: moving from main to 39169
+[33mc9a70[m HEAD@{196}: commit: jjje
+[33m08baf[m[33m ([m[1;33mtag: [m[1;33mFirstVersion[m[33m)[m HEAD@{197}: commit: klhdsjhk
+[33m98d02[m HEAD@{198}: checkout: moving from main to main
+[33m98d02[m HEAD@{199}: commit (merge): JKhdp
+[33m832b2[m HEAD@{200}: checkout: moving from a84435d32bcfce781d4395b82f4d0c384918af8d to main
+[33ma8443[m HEAD@{201}: checkout: moving from main to origin/main
+[33m832b2[m HEAD@{202}: commit: ijvhdv
+[33m93170[m HEAD@{203}: commit: ijihjkjhdhji
+[33m714fa[m HEAD@{204}: checkout: moving from main to main
+[33m714fa[m HEAD@{205}: checkout: moving from main to main
+[33m714fa[m HEAD@{206}: commit (merge): hjijh
+[33m3dbb5[m HEAD@{207}: checkout: moving from 4755ab57842f7c954e1f8893a4416d95e8135151 to main
+[33m4755a[m HEAD@{208}: checkout: moving from main to origin/main
+[33m3dbb5[m HEAD@{209}: commit: jejjj
+[33m849bd[m HEAD@{210}: commit: Already i bored
+[33m2f8b9[m HEAD@{211}: commit (merge): jiohj
+[33m55d4d[m HEAD@{212}: checkout: moving from bd36705ff6de36134f81e8e52aad8525984891b0 to main
+[33mbd367[m HEAD@{213}: commit: jkjoijildf
+[33m3a8cc[m HEAD@{214}: checkout: moving from main to origin/main
+[33m55d4d[m HEAD@{215}: commit: Before
+[33ma5996[m HEAD@{216}: checkout: moving from 0ee603e0b50bdc7205ab444ab48069a1c05ded88 to main
+[33m0ee60[m HEAD@{217}: checkout: moving from main to origin/main
+[33ma5996[m HEAD@{218}: commit: hjhh
+[33m0ee60[m HEAD@{219}: checkout: moving from main to main
+[33m0ee60[m HEAD@{220}: commit (merge): Merge branch 'main' of https://github.com/josue76i7/Sum2Numbers
+[33m0dff0[m HEAD@{221}: checkout: moving from 20d2f88999d7da7269f02046abf5f5ff2ebb46ef to main
+[33m20d2f[m HEAD@{222}: checkout: moving from main to origin/main
+[33m0dff0[m HEAD@{223}: checkout: moving from main to main
+[33m0dff0[m HEAD@{224}: checkout: moving from 20d2f88999d7da7269f02046abf5f5ff2ebb46ef to main
+[33m20d2f[m HEAD@{225}: checkout: moving from main to origin/main
+[33m0dff0[m HEAD@{226}: commit: before I do detach and fetch
+[33mc0d71[m HEAD@{227}: commit (merge): jejd
+[33m39169[m HEAD@{228}: commit: Local Changes
+[33m172ad[m HEAD@{229}: pull origin: Fast-forward
+[33m964fd[m HEAD@{230}: pull: Fast-forward
+[33m84eb9[m HEAD@{231}: pull: Fast-forward
+[33m4d996[m HEAD@{232}: commit: Now yes
+[33m48219[m HEAD@{233}: clone: from https://github.com/josue76i7/Sum2Numbers.git
