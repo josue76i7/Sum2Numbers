@@ -1,7 +1,7 @@
 class Numerito{
     
     public int getNum() {
-        return 222222;
+        return 5555;
     }
 }
 

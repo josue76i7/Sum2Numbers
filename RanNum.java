@@ -7,6 +7,6 @@ class RandomNum {
     }
 
     public int getNum(){
-        return ran.nextInt(100) + new Numerito().getNum() +1000;    
+        return 5555;    
     }
 }

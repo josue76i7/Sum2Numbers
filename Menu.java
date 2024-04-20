@@ -6,7 +6,7 @@ class Menu {
         ran = new RandomNum();
         sum = new SumaNum();
         sum.sumaFinal(ran.getNum(), ran.getNum());
-        System.out.println("MAIN");
+        System.out.println("NEW MAIN 2 ");
     }
 }    
 
