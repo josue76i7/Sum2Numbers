@@ -24,6 +24,9 @@ class Numerito {
         System.out.println(" OO");
         System.out.println(" OO");
         System.out.println(" OO");
+        
+        System.out.println(" FINAL");
+
         return 5555;
     }
 }
