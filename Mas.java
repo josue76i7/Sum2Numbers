@@ -7,7 +7,7 @@ class Numerito {
     }
 
     public int test(){
-        return 1000;
+        return 2000;
     }
 }
 
