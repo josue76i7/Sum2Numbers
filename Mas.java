@@ -2,8 +2,12 @@
 class Numerito {
     
     public int getNum() {
-        int mul =30 * 10;
-        return (mul-(30*5));
+        
+        return (10 * test());
+    }
+
+    public int test(){
+        return 1000;
     }
 }
 
