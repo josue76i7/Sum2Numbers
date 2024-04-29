@@ -7,6 +7,17 @@ class RandomNum {
     }
 
     public int getNum(){
-        return 4444;    
+        System.out.println("hnjsdjsj");
+        System.out.println("hnjsdjsj");
+        System.out.println("hnjsdjsj");
+        System.out.println("hnjsdjsj");
+        System.out.println("hnjsdjsj");
+        System.out.println("hnjsdjsj");
+        System.out.println("hnjsdjsj");
+        System.out.println("hnjsdjsj");
+        System.out.println("hnjsdjsj");
+        System.out.println("hnjsdjsj");
+        System.out.println("hnjsdjsj");
+        return 5555 -233;    
     }
 }

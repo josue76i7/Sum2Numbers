@@ -1,25 +1,15 @@
-<<<<<<< HEAD
 class Numerito{
-    
     public int getNum() {
-        return 55444;
+        System.out.println("Inicio");
+        int a = 0;
+        int b = 0;
+        int f = 0; 
+        int c = 0; 
+        int d = 0;
+        System.out.println(" OO");
+        System.out.println(" OO");
+        System.out.println(" OO");
+        System.out.println(" FINAL");
+        return 5555;
     }
 }
-
-
-=======
-
-class Numerito {
-    
-    public int getNum() {
-        int h = 783788;
-        return (10 * test());
-    }
-
-    public int test(){
-        return 22000;
-    }
-}
-
-
->>>>>>> 1811d78ba2169a9d92da96db2e1782a82d200d48
