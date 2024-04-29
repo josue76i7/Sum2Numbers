@@ -1,6 +1,6 @@
 class Numerito{
-    
     public int getNum() {
+        System.out.println("Inicio");
         int a = 0;
         int b = 0;
         int f = 0; 
@@ -9,29 +9,7 @@ class Numerito{
         System.out.println(" OO");
         System.out.println(" OO");
         System.out.println(" OO");
-        System.out.println(" OO");
-        System.out.println(" OO");
-        System.out.println(" OO");
-        System.out.println(" OO");
-        System.out.println(" OO");
-        System.out.println(" OO");
-        System.out.println(" OO");
-        System.out.println(" OO");
-        System.out.println(" OO");
-        System.out.println(" OO");
-        System.out.println(" OO");
-        System.out.println(" OO");
-        System.out.println(" OO");
-        System.out.println(" OO");
-        System.out.println(" OO");
-        System.out.println(" OO");
-        System.out.println(" OO");
-        System.out.println(" OO");
-        System.out.println(" OO");
-        System.out.println(" OO");
-        
         System.out.println(" FINAL");
-
         return 5555;
     }
 }
